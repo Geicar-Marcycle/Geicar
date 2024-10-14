@@ -1,12 +1,16 @@
 [submodule "raspberryPI3"]
 	path = raspberryPI3
-	url = git@github.com:Geicar-Marcycle/raspberryPI3.git
+	url = https://github.com/Geicar-Marcycle/raspberryPI3.git
+	branch = main
 [submodule "nucleoL476/firmware"]
 	path = nucleoL476/firmware
-	url = git@github.com:Geicar-Marcycle/NucleoL476.git
+	url = https://github.com/Geicar-Marcycle/NucleoL476.git
+	branch = main
 [submodule "nucleoF103/firmware"]
 	path = nucleoF103/firmware
-	url = git@github.com:Geicar-Marcycle/NucleoF103.git
+	url = https://github.com/Geicar-Marcycle/NucleoF103.git
+	branch = main
 [submodule "jetsonNano"]
 	path = jetsonNano
-	url = git@github.com:Geicar-Marcycle/jetsonNano.git
+	url = https://github.com/Geicar-Marcycle/jetsonNano.git
+	branch = main
