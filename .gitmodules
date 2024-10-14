@@ -1,0 +1,12 @@
+[submodule "raspberryPI3"]
+	path = raspberryPI3
+	url = git@github.com:Geicar-Marcycle/raspberryPI3.git
+[submodule "nucleoL476/firmware"]
+	path = nucleoL476/firmware
+	url = git@github.com:Geicar-Marcycle/NucleoL476.git
+[submodule "nucleoF103/firmware"]
+	path = nucleoF103/firmware
+	url = git@github.com:Geicar-Marcycle/NucleoF103.git
+[submodule "jetsonNano"]
+	path = jetsonNano
+	url = git@github.com:Geicar-Marcycle/jetsonNano.git
